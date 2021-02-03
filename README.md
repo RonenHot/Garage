@@ -1,4 +1,4 @@
 # Garage
-Homework as part of a .NET course.\n
-A small system that "manages" a garage.\n
+Homework as part of a .NET course.
+A small system that "manages" a garage.
 Handles five types of vehicles.
